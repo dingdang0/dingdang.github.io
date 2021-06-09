@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-05-20T13:55:36.329Z</updated>
+  <updated>2021-06-09T13:38:23.314Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,15 +21,17 @@
     <link href="http://example.com/2021/05/20/linux/"/>
     <id>http://example.com/2021/05/20/linux/</id>
     <published>2021-05-20T13:54:45.432Z</published>
-    <updated>2021-05-20T13:55:36.329Z</updated>
+    <updated>2021-06-09T13:38:23.314Z</updated>
     
-    <content type="html"><![CDATA[<p>SVDVD产生的程度</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="linux基础命令"><a href="#linux基础命令" class="headerlink" title="linux基础命令"></a>linux基础命令</h2><ul><li>ls -a -l</li><li>cd  / ..</li><li>cat </li><li>vi</li><li>tail -f -n</li><li>touch</li><li>mkdir</li><li>rm -rf -r -f</li></ul><h2 id="linux结构"><a href="#linux结构" class="headerlink" title="linux结构"></a>linux结构</h2>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;SVDVD产生的程度&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;h2 id=&quot;linux基础命令&quot;&gt;&lt;a href=&quot;#linux基础命令&quot; class=&quot;headerlink&quot; title=&quot;linux基础命令&quot;&gt;&lt;/a&gt;linux基础命令&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;ls -a -l&lt;/li&gt;
+&lt;li&gt;cd  / ..&lt;/li&gt;
+&lt;li&gt;</summary>
       
     
     
