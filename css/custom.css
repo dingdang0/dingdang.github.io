@@ -1,0 +1,62 @@
+@import "//at.alicdn.com/t/font_2621317_28l5j9w09dfi.css";
+
+@font-face {
+    font-family:'arzhu';
+    src:url('https://cdn.jsdelivr.net/gh/dingdang0/mycdn@1.0/font.ttf'); /* 修改成你的字体 */
+    font-display:swap
+}
+h1#site-title {
+    font-family:arzhu!important;
+    font-size: 60px!important;
+    
+}
+span#subtitle {
+    font-family:arzhu!important
+}
+a#site-name {
+    font-family:arzhu!important
+}
+
+.icon-git:before {
+    /* content: "\e602"; */
+    /* 修改颜色 */
+    color: blue;
+    /* 修改大小 */
+    font-size: 24px;
+  }
+  .icon-gitee:before {
+    /* content: "\e602"; */
+    /* 修改颜色 */
+    color: rgb(255, 0, 0);
+    /* 修改大小 */
+    font-size: 24px;
+  }
+  .icon-csdn:before {
+    /* content: "\e602"; */
+    /* 修改颜色 */
+    color: rgb(255, 0, 64);
+    /* 修改大小 */
+    font-size: 24px;
+  }
+  .icon-cnblogs:before {
+    /* content: "\e602"; */
+    /* 修改颜色 */
+    color: rgb(48, 48, 58);
+    /* 修改大小 */
+    font-size: 24px;
+  }
+  .icon-QQyouxiang:before {
+    /* content: "\e602"; */
+    /* 修改颜色 */
+    color: rgb(102, 255, 0);
+    /* 修改大小 */
+    font-size: 24px;
+  }
+  .icon-wangyi:before {
+    /* content: "\e602"; */
+    /* 修改颜色 */
+    color: rgb(255, 81, 0);
+    /* 修改大小 */
+    font-size: 24px;
+  }
+
