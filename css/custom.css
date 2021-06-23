@@ -1,4 +1,4 @@
-@import "//at.alicdn.com/t/font_2621317_28l5j9w09dfi.css";
+@import "//at.alicdn.com/t/font_2621317_z40suktet1.css";
 
 @font-face {
     font-family:'arzhu';
@@ -13,15 +13,20 @@ h1#site-title {
 span#subtitle {
     font-family:arzhu!important
 }
+.author-info__description {
+    font-family:arzhu!important
+}
 a#site-name {
     font-family:arzhu!important
 }
+#post,#aside-content .card-widget,.recent-post-item,#page,#archive,#tag,#category {
+  background: rgba(255,255,255,0.8)!important;
+}
 
 .icon-git:before {
-    /* content: "\e602"; */
-    /* 修改颜色 */
+    
     color: blue;
-    /* 修改大小 */
+    /* color: rgba(36, 243, 198, 0.452); */
     font-size: 24px;
   }
   .icon-gitee:before {
@@ -45,11 +50,10 @@ a#site-name {
     /* 修改大小 */
     font-size: 24px;
   }
-  .icon-QQyouxiang:before {
-    /* content: "\e602"; */
-    /* 修改颜色 */
+  .icon-QQyouxiang1:before {
+   
     color: rgb(102, 255, 0);
-    /* 修改大小 */
+   
     font-size: 24px;
   }
   .icon-wangyi:before {
@@ -59,4 +63,9 @@ a#site-name {
     /* 修改大小 */
     font-size: 24px;
   }
-
+.icon-youdaoyunbiji:before{
+    
+    color: rgb(0, 119, 255);
+    
+    font-size: 24px;
+}

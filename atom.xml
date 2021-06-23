@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>叮当园</title>
   
-  <subtitle>我的个人家园</subtitle>
+  <subtitle>我不断努力，只是为了追上曾经的自己</subtitle>
   <link href="https://dingdang0.github.io/atom.xml" rel="self"/>
   
   <link href="https://dingdang0.github.io/"/>
-  <updated>2021-06-20T02:38:59.310Z</updated>
+  <updated>2021-06-20T14:27:54.559Z</updated>
   <id>https://dingdang0.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://dingdang0.github.io/2021/06/19/linux/"/>
     <id>https://dingdang0.github.io/2021/06/19/linux/</id>
     <published>2021-06-19T13:30:24.897Z</published>
-    <updated>2021-06-20T02:38:59.310Z</updated>
+    <updated>2021-06-20T14:27:54.559Z</updated>
     
     <content type="html"><![CDATA[<h2 id="linux基础命令"><a href="#linux基础命令" class="headerlink" title="linux基础命令"></a>linux基础命令</h2><ul><li>ls -a -l</li><li>cd  / ..</li><li>cat </li><li>vi</li><li>tail -f -n</li><li>touch</li><li>mkdir</li><li>rm -rf -r -f</li></ul><h2 id="linux结构"><a href="#linux结构" class="headerlink" title="linux结构"></a>linux结构</h2>]]></content>
     
