@@ -19,8 +19,11 @@ span#subtitle {
 a#site-name {
     font-family:arzhu!important
 }
+#web_bg {
+background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+}
 #post,#aside-content .card-widget,.recent-post-item,#page,#archive,#tag,#category {
-  background: rgba(255,255,255,0.8)!important;
+  background: rgba(255,255,255,0.7)!important;
 }
 
 .icon-git:before {
